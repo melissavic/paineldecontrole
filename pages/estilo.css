@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+h1  {
+font-size: 70px;
+text-align: center;
+
+}
+
+body{
+    align-items: center;
+    background-color: rgb(178, 178, 236);
+   text-align: center;
+}
+
+p{
+font-size: 30px;    
+
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+text-align: center;
+padding-top: 30px;
+}
+
+
